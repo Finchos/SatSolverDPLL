@@ -1,12 +1,12 @@
 # SAT Solver - DPLL
 
-**Autor:** Šimon Kolařík
+**Autor:** Šimon Kolařík                                                
 **Jazyk:** Python 3 (bez závislostí na externích knihovnách)
 
 ## Struktura
 * `main.py` - Hlavní vstupní bod programu (I/O, měření času).
 * `dpll.py` - Samotná implementace algoritmu.
-* `formula_tools/` - Modul pro parsování DIMACS formátu a poskytuje abstrakci pro čitelnější kód v samotném dpll
+* `formula_tools/` - Modul pro parsování DIMACS formátu a poskytuje abstrakci pro čitelnější kód
 * `benchmarking.py` - Nástroj pro hromadné testování a generování CSV.
 
 ## Jak program spustit
