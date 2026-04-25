@@ -8,7 +8,7 @@
 * `dpll.py` - Samotná implementace algoritmu.
 * `formula_tools/` - Modul pro parsování DIMACS formátu a poskytuje abstrakci pro čitelnější kód.
 * `benchmarking.py` - Nástroj pro hromadné testování a generování CSV.
-* `BenchmarkResults.xlsl` - Excel soubor obsahujicí tabulky s výsledky solveru na benchmarks
+* `BenchmarkResults.xlsx` - Excel soubor obsahujicí tabulky s výsledky solveru na benchmarks
 
 ## Jak program spustit
 
